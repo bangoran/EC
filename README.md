@@ -1,1 +1,1 @@
-# EC
+# Embeded Controller
